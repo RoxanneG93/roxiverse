@@ -3,7 +3,7 @@ import moment from 'moment';
 import Link from 'next/link';
 
 function PostCard({post}) {
-    //console.log('HEYYYYYYY')
+    console.log('HEYYYYYYY')
     // image urls are showing up NULL and I don't know why
 //console.log(post.author) // <-- not user yet why this isn't working
 // need to tests how this works when we forget to publish the images
